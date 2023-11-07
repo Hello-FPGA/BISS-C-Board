@@ -10,3 +10,15 @@ This board should used together with out ZYNQ7020 Core board.
 
 
 ![image-20231107213618009](README.assets/image-20231107213618009.png)
+
+
+
+You can find the core board with this repo https://github.com/Hello-FPGA/ZYNQ7020_Core_Board 
+
+You can find the software design with this repo https://github.com/Hello-FPGA/BISS-C
+
+
+
+## QA
+
+If you want more information or other request. Contact us with info@hello-fpga.com or QQ 947559581
