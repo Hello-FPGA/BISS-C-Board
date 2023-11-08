@@ -1,6 +1,7 @@
 # BISS-C-Board
-This is 8 channels BISS-C FPGA board design. BISS-C is one kind of full duplex RS485/422 serial interface. So this board can also used as RS485/422 application.
+This is 8 channels BISS-C FPGA board design. BISS-C is one kind of full duplex RS485/422 serial interface. So this board can also used as an RS485/422 application.
 
+If it is helpful, please give our repo a star to make more people see it.
 
 
 This board should used together with out ZYNQ7020 Core board.
